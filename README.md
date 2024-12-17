@@ -15,3 +15,5 @@
 ## Ressources
 
 - Maquette figma : https://www.figma.com/design/3qSIxYE3qnseh5MGMzeGg3/TD---Tailwind?node-id=0-1&t=BLarjwK7piTUdc4Z-1
+
+- Ou bien en image : ![maquette](./maquettes/homepage.pdf) et pour la version mobile ![maquette](./maquettes/homepage_mobile.pdf)
